@@ -1,0 +1,2 @@
+class ConfigTask < ApplicationRecord
+end

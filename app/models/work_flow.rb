@@ -1,0 +1,2 @@
+class WorkFlow < ApplicationRecord
+end
